@@ -1,8 +1,8 @@
 ### Bem vindo(a) 👋
 
 
-- 👩🏻‍🎓 Graduada em Administração de Empresas
 - 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas
+- 👩🏻‍🎓 Graduada em Administração de Empresas
 - 📚 Trabalho em uma biblioteca
 - 🌱 Estou focada em aprender Frontend, mas Backend também está na mira!
 
