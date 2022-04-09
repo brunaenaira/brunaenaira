@@ -2,8 +2,8 @@
 
 
 - 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas
-- 👩🏻‍🎓 Graduada em Administração de Empresas
-- 📚 Trabalho em uma biblioteca
+- 👩🏻‍🎓 Bacharel em Administração de Empresas
+- 📚 Trabalho em uma biblioteca, mas não sou bibliotecária 😝
 - 🌱 Estou focada em aprender Frontend, mas Backend também está na mira!
 
 
