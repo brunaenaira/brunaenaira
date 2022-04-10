@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 👩🏻‍🎓 Bacharel em Administração de Empresas
-- 😎 Quero ser Fullstack
+- 😎 Meta Fullstack
 - 📚 Trabalho em uma biblioteca, mas não sou bibliotecária 😝
 - 🌱 Estou focada em aprender Frontend, mas Backend também está na mira!
 
