@@ -1,7 +1,7 @@
 ### Bem vindo(a) 👋
 
 
-- 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas
+- 👩🏻‍💻 Analista e Desenvolvedora de Sistemas
 - 👩🏻‍🎓 Bacharel em Administração de Empresas
 - 😎 Meta Fullstack
 - 📚 Trabalho em uma biblioteca, mas não sou bibliotecária 😝
